@@ -1,0 +1,37 @@
+[
+    {
+        "user_role": "Admin",
+        "status": "Enabled",
+        "username": "alpha112333",
+        "password": "Password123!",
+        "confirm_password": "Password123!"
+    },
+    {
+        "user_role": "ESS",
+        "status": "Enabled",
+        "username": "beta1112333",
+        "password": "Password123!",
+        "confirm_password": "Password123!"
+    },
+    {
+        "user_role": "ESS",
+        "status": "Disabled",
+        "username": "gamma112333",
+        "password": "Password123!",
+        "confirm_password": "Password123!"
+    },
+    {
+        "user_role": "Admin",
+        "status": "Enabled",
+        "username": "delta112333",
+        "password": "Password123!",
+        "confirm_password": "Password123!"
+    },
+    {
+        "user_role": "ESS",
+        "status": "Enabled",
+        "username": "epsilon112333",
+        "password": "Password123!",
+        "confirm_password": "Password123!"
+    }
+]

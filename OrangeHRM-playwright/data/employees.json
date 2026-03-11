@@ -1,0 +1,22 @@
+[
+  {
+    "employee_id": "1020",
+    "first_name": "Taaaaeeh",
+    "middle_name": "hh",
+    "last_name": "Mimo",
+    "other_id": "98765",
+    "nationality": "Indian",
+    "marital_status": "Single",
+    "gender": "Female"
+  },
+  {
+    "employee_id": "1030",
+    "first_name": "Thaaaaid",
+    "middle_name": "hh",
+    "last_name": "monnoy",
+    "other_id": "98760",
+    "nationality": "Indian",
+    "marital_status": "Single",
+    "gender": "Male"
+  }
+]
